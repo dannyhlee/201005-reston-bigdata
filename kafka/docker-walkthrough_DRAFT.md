@@ -1,9 +1,10 @@
-pache sample at https://kafka.apache.org/quickstart-docker is garbage.
+Apache sample at https://kafka.apache.org/quickstart-docker is garbage.
+
+The intro to follow - https://jaceklaskowski.gitbooks.io/apache-kafka/content/kafka-docker.html
 
 The kafka docker image - https://github.com/wurstmeister/kafka-docker#kafka-docker
-The intro to follow - https://jaceklaskowski.gitbooks.io/apache-kafka/content/kafka-docker.html
-Microservices, Docker, Kubernetes by James Quigley https://www.youtube.com/watch?v=1xo-0gCVhTU
 
+Microservices, Docker, Kubernetes by James Quigley https://www.youtube.com/watch?v=1xo-0gCVhTU - good intro (55 min)
 
 ### Set up Docker on local machine
 1. Download and install Docker desktop https://covid.ourworldindata.org/data/owid-covid-data.csv
